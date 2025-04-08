@@ -1,25 +1,24 @@
-<h1> Set Up a Dummy Active Directory Server on a Windows Instance</h1>
+<h1> Active Directory Server Lab</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
-<h2>Description</h2>
-Configured a Windows Server 2022 virtual machine using VirtualBox to simulate a real-world IT environment. Installed and set up Active Directory Domain Services (AD DS), promoted the server to a domain controller, and assigned a static IP for reliable network identity. Enabled Remote Desktop, changed the computer name, and performed basic server hardening tasks. This project demonstrates my understanding of Windows Server setup, domain infrastructure, user management and foundational networking principles.
+<h2>📚 Project Overview </h2>
+This project demonstrates the installation and configuration of a Windows Server 2022 instance with Active Directory Domain Services (AD DS). The goal was to simulate a real-world IT environment by promoting a server to a domain controller, setting a static IP address, enabling Remote Desktop, and applying basic server configurations.
 <br />
 
 
-<h2>Utilities Used</h2>
+<h2>🛠️ Technologies Used </h2>
 
-- <b>Windows Server 2022</b> 
-- <b>Oracle VirtualBox</b>
+- <b>Windows Server 2022 (Evaluation ISO)</b> 
+- <b>VirtualBox</b>
+- <b>Active Directory Domain Services (AD DS) </b>
+- <b>Windows Server Manager</b>
 
-<h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+<h2>🚀 Setup Process</h2>
 
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Launch the utility: <br/>
+<p align="left">
+Download Windows Server 2022 ISO: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
