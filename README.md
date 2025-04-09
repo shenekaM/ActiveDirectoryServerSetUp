@@ -18,11 +18,28 @@ This project demonstrates the installation and configuration of a Windows Server
 <h2>🚀 Setup Process</h2>
 
 <p align="left">
-Download Windows Server 2022 ISO: <br/>
+Download Windows Server 2022 ISO 
+  - <b>Downloaded the Windows Server 2022 Evaluation ISO from the official Microsoft page. </b>
+ <br/>
+
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Create a Virtual Machine <br/>
+
+<b>
+Created a new VM in VirtualBox.
+
+Allocated:
+
+-2 CPUs
+
+-4GB Memory (adjustable)
+
+-50GB Disk Space
+
+-Mounted the Windows Server 2022 ISO. <b/>
+
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
