@@ -22,7 +22,7 @@ Download Windows Server 2022 ISO
   - <b>Downloaded the Windows Server 2022 Evaluation ISO from the official Microsoft page. </b>
  <br/>
 
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2w6Ip3q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create a Virtual Machine <br/>
@@ -38,29 +38,25 @@ Allocated:
 
 -50GB Disk Space
 
--Mounted the Windows Server 2022 ISO. <b/>
+-Install Windows Server: <b/>
 
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nHctMwp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Local Server Settings Showing Static IP Config <br/>
+<img src="https://i.imgur.com/TmenN5e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Install Active Directory Domain Services (AD DS)  <br/>
+<img src="https://i.imgur.com/1dqBoiw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br />
+
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Finalize  <br/>
+<img src="https://i.imgur.com/6IlQUlM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
